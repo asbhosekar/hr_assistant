@@ -1,0 +1,30 @@
+{
+  "metadatas": [
+    {
+      "id": 1,
+      "title": "Parental Leave Policy",
+      "contact": "hr@example.com"
+    },
+    {
+      "id": 1,
+      "title": "Sick Leave Policy",
+      "contact": "hr@example.com"
+    },
+    {
+      "id": 1,
+      "title": "Voluntary Resignation Notice",
+      "contact": "hr@example.com"
+    },
+    {
+      "id": 2,
+      "title": "Remote Work Policy",
+      "contact": "hr@example.com"
+    }
+  ],
+  "texts": [
+    "Parental Leave Policy: Employees are entitled to 12 weeks of parental leave after the birth or adoption of a child, contingent on 12 months of continuous employment.",
+    "Sick Leave Policy: Employees earn 1 day of sick leave each month, capped at 12 days annually, with a medical certificate needed for absences over 3 days.",
+    "Voluntary Resignation Notice: Employees are required to give a minimum of 30 days notice before resigning voluntarily.",
+    "Remote Work Policy: Employees may work remotely up to 2 days per week with prior approval from their manager."
+  ]
+}
